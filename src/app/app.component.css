@@ -1,0 +1,12 @@
+.logo {
+  margin-top: 98px;
+  margin-left: -15px;
+}
+
+.main-container {
+  padding-top: 25px;
+  width: 80%;
+  margin: 0 auto;
+}
+mat-toolbar { background-color: blue;}
+

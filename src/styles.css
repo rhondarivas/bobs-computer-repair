@@ -1,0 +1,18 @@
+/* css attributes for page */
+
+html, body{
+  background-color: #4ea8ff;
+}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.mat-toolbar-row {
+  background: #4ea8ff;
+  color: #fff;
+}
+
+.mat-toolbar-class {
+  background: #4ea8ff;
+}
+
+
+

@@ -1,0 +1,27 @@
+#checkboxes {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+div {
+  float: right;
+  height: 400px;
+  width: 1000;
+  padding: 0 15px;
+  background: #4ea8ff;
+}
+
+#services1 {
+  background-color: #4ea8ff;
+}
+
+#services2 {
+  background-color: #4ea8ff;
+  width: 100%;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
