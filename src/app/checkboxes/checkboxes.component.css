@@ -4,24 +4,21 @@
   clear: both;
 }
 
-div {
-  float: right;
+#services1 {
+  float: left;
   height: 400px;
   width: 1000;
   padding: 0 15px;
-  background: #4ea8ff;
-}
-
-#services1 {
-  background-color: #4ea8ff;
 }
 
 #services2 {
-  background-color: #4ea8ff;
-  width: 100%;
+  float: left; width: 100%;
+  height: 400px;
+  width: 1000;
+  padding: 0 15px;
 }
 
 h2 {
   color: white;
-  text-align: center;
+  text-align: left;
 }

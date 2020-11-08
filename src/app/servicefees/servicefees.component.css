@@ -1,0 +1,24 @@
+#fees {
+  float: left;
+  height: 400px;
+  width: 1000;
+  padding: 0 15px;
+}
+
+.labor {
+  float: left;
+  height: 400px;
+  width: 1000;
+  padding: 0 15px;
+}
+.laborfees {
+  float: left;
+  height: 400px;
+  width: 1000;
+  padding: 0 15px;
+}
+h2 {
+  color: white;
+  text-align: left;
+}
+
