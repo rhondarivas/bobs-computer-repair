@@ -1,24 +1,19 @@
-#checkboxes {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-#services1 {
-  float: left;
-  height: 400px;
-  width: 1000;
-  padding: 0 15px;
-}
-
-#services2 {
-  float: left; width: 100%;
-  height: 400px;
-  width: 1000;
-  padding: 0 15px;
-}
 
 h2 {
   color: white;
   text-align: left;
+}
+
+#checckboxes {
+  float: left;
+  height: 400px;
+  width: 500;
+  padding: 15px;
+}
+
+.services1{
+  float: left;
+  height: 400px;
+  width: 500;
+  padding: 15px;
 }
