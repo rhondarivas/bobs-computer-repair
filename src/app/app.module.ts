@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { CheckboxesComponent } from './checkboxes/checkboxes.component';
 import { HeaderComponent } from './header/header.component';
 import { ServiceFeesComponent } from './servicefees/servicefees.component';
 import { MatToolbarModule } from '@angular/material/toolbar';
@@ -13,13 +12,14 @@ import { MatListModule } from '@angular/material/list';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { MatIconModule } from '@angular/material/icon';
 import { MatCheckboxModule } from '@angular/material/checkbox';
-import { LaborComponent } from './labor/labor.component'
+import { LaborComponent } from './labor/labor.component';
+import { MatInputModule } from '@angular/material/input';
+import { MatFormFieldModule } from '@angular/material/form-field';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    CheckboxesComponent,
     HeaderComponent,
     ServiceFeesComponent,
     LaborComponent
@@ -34,7 +34,9 @@ import { LaborComponent } from './labor/labor.component'
     MatListModule,
     FlexLayoutModule,
     MatIconModule,
-    MatCheckboxModule
+    MatCheckboxModule,
+    MatInputModule,
+    MatFormFieldModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,14 +1,36 @@
-
-#labor {
-  background-color: #4ea8ff;
+#fees {
+  float: left;
+  height: 250px;
+  width: 100;
+  padding: 10px;
 }
 
-#labor2 {
-  background-color: #4ea8ff;
-  width: 100%;
+.fees {
+  float: left;
+  width: 50%;
+  border: 3px solid lightblue;
+  padding: 10px;
+
+}
+.labor {
+  float: left;
+  width: 50%;
+  border: 3px solid lightblue;
+  padding: 10px;
+
 }
 
 h2 {
-  color: white;
-  text-align: center;
+  color: lightblue;
+  text-align: left;
 }
+.labor-charges {
+  background: darkgray;
+  padding: 10px;
+  border: 3px solid lightblue;
+  min-width: 110px;
+  width: 50%;
+}
+
+
+
