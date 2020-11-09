@@ -1,29 +1,28 @@
 
 h2 {
   color: lightblue;
-  text-align: left;
+  text-align: center;
 }
 
 #checkboxes {
-  float: left;
+  float: center;
   height: 250px;
-  width: 300;
+  width: 550;
   padding: 10px;
   background: darkgray;
   border: 3px solid lightblue;
 }
 
-.services {
-  float: left;
-  height: 350px;
-  width: 300;
-  padding: 10px;
-  background: darkgray;
-  border: 3px solid lightblue;
+#services {
+  float: center;
   width: 50%;
+  border: 3px solid lightblue;
+  padding: 10px;
 }
 .services1{
-  float: left;
+  float: center;
+  height: 300px;
+  width: 650;
   padding: 10px;
   border: 3px solid lightblue;
 }
